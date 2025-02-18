@@ -1,27 +1,34 @@
-# Introduction to Data Science
+# 📊 Introduction to Data Science - Course Solutions  
 
-This repository houses project information regarding Early Predicator for Student Success Based on Behavioural and Demographical Indicators alongside other tasks.
+Welcome to my repository! This project contains my solutions to various tasks from the **Introduction to Data Science** college course. The tasks cover topics such as **data preprocessing, visualization, machine learning, and deep learning** using Python.  
 
-## Project overveiw :mag:
+## 🗂 Contents  
 
-The course of the project through three phases:
- - First: Preparation and visualization of Kaggle dataset
- - Second: Preparation and visualization of scientific article
- - Third: Replicating and improving the results
+- Data cleaning & preprocessing  
+- Exploratory data analysis (EDA)  
+- Machine learning models  
+- Deep learning with PyTorch  
+- Performance evaluation (accuracy, confusion matrix, F1-score, etc.)  
 
-### Fisrt Part
+## 💡 How to Use  
 
-The goal of this part of the project is to implement data preparation methods that are processed in lectures and auditory exercises on a certain tabular data that the assistant selected from Kaggle.
+Feel free to explore my solutions! If you're also taking a similar course or just want to learn, you might find the notebooks helpful.  
 
+## 🤝 Contributions Welcome!  
 
-### Second Part
+If you find a way to improve my code (better efficiency, bug fixes, or alternative approaches), **you’re more than welcome to contribute!** 🎉  
 
-The goal of this part of the project is to familiarize yourself with the data from the scientific article. It is recommended to read the selected article and download the data that was used. After that, you need to familiarize yourself with the data.
+### How to contribute:  
+1. **Fork** this repository  
+2. **Make your changes** (optimize code, fix bugs, improve explanations)  
+3. Submit a **pull request**  
 
-### Third Part
+I appreciate any suggestions or feedback! 🚀  
 
-Final part of the project, first use the approaches from the selected article to replicate the presented results. During the actual implementation, use already implemented functions from packages such as `numpy`, `scikit-learn`, etc. Once the methods are implemented, it is necessary to run them on previously prepared data, correctly evaluate them, compare them with the results from the article and explain any differences.
+## 📩 Contact  
 
-## Notes :memo:
+If you have any questions or want to discuss the solutions, feel free to reach out!
 
-Project is done using Python and Jupyter Notebook.
+---
+
+So long and thanks for all the fish! 🖥️🐬
